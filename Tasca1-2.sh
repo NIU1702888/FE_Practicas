@@ -26,6 +26,6 @@ echo "*Valoració dels usuaris: "$rating"	*Mida de la mostra:	"$size 	>> year_ou
 done
 
 }
-echo "************************   HBBQO: El Nostre catàleg de ratings segons els usuaris  es:   ************************************" > year_output.txt
+echo "************************   HBBQO: El Nostre catàleg cronológic  es:   ************************************" > year_output.txt
 ordenarvaloracio
 more year_output.txt

@@ -30,11 +30,12 @@ lin=$(wc -l < $document)
 for i in $(seq 1 $(($lin-1)))
 do
 clas=$(head -$i $document| tail -1| cut -d, -f2)
-if [ $(($clas != rat* )) ]
 echo $clas >> ratinglevel.txt
 done
-sort ratinglevel.txt | uniq > sorted_rl.tt
+tail +2 ratinglevel.txt| sort| uniq > sorted_rl.txt
 cat sorted_rl.txt
+rm ratinglevel.txt
+rm sorted_rl.txt
 echo escoge un rating de la lista
 read rl
 echo Escribe una cadena
