@@ -1,0 +1,181 @@
+************************   HBBQO: LLista de plicules del catáleg que comencen desde la  m  a la  n :   ************************************
+*****************************************************************************************************************************
+*Títol:	Mad Men
+*Any: 2014	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 75	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Madam Secretary
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 70	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Magic Mike
+*Any: 2012	*Nivell de classificació:	R
+*Descripció:	pervasive sexual content-brief graphic nudity-language and some drug use
+*Valoració dels usuaris: 77	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Marvel Super Hero Adventures: Frost Fight!
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	fantasy action
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Marvel's Agents of S.H.I.E.L.D.
+*Any: 2016	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 89	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Marvel's Hulk: Where Monsters Dwell
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	action violence throughout-some scary images-and language
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Marvel's Iron Fist
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Marvel's Jessica Jones
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 83	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Marvel's Luke Cage
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Masha and the Bear
+*Any: 2013	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Master of None
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Max Steel
+*Any: 2014	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mean Girls 2
+*Any: 2011	*Nivell de classificació:	PG-13
+*Descripció:	For some rude and suggestive material-and for language.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Meet the Blacks
+*Any: 2016	*Nivell de classificació:	R
+*Descripció:	pervasive language-some sexual material-violence and drug use
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	MerlÃ­
+*Any: 2015	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mia and Me
+*Any: 2015	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mickey's Twice Upon a Christmas
+*Any: 2004	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mighty Morphin Power Rangers
+*Any: 2010	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 73	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Minimalism: A Documentary About the Important Things
+*Any: 2016	*Nivell de classificació:	TV-PG
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Minions
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	action and rude humor
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Missione Hamburger
+*Any: 1997	*Nivell de classificació:	PG
+*Descripció:	language-some comic violence and mild sex-related humor
+*Valoració dels usuaris: 75	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Monster Math Squad
+*Any: 2012	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mother Goose Club
+*Any: 2016	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mr. Magoo
+*Any: 1997	*Nivell de classificació:	PG
+*Descripció:	mild language and action sequences
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mulan 2
+*Any: 2004	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	My Animal Friends
+*Any: 2013	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Nancy Drew
+*Any: 2007	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Narcos
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Naruto
+*Any: 2008	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	NCIS
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	New Girl
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Nexo Knights
+*Any: 2015	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Ninja Turtles: The Next Mutation
+*Any: 1997	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	No Tomorrow
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	November Rule
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Nurse Jackie
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 82	*Mida de la mostra:	80
