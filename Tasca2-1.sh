@@ -2,18 +2,17 @@
 document=$1
 fc=$2
 sc=$3
-ordenarvaloracio(){
+rm nova_llista.txt
+ordenartitol(){
 sort -t , -k 1 $document | uniq > title_llista.txt
+for i in {h..g}
+do
+echo $i
+grep -i ^$i title_llista.txt >> nova_llista.txt
+done
 lin=$(wc -l < title_llista.txt)
 for i in $(seq 1 $(($lin-1)))
 do
-if [ $i -le $lin ]
-then
-echo cargando
-clear
-else
-echo listo
-fi
 title=$(head -$i title_llista.txt| tail -1| cut -d, -f1)
 rating=$(head -$i title_llista.txt| tail -1| cut -d, -f5)
 year=$(head -$i title_llista.txt| tail -1| cut -d, -f4)
@@ -28,6 +27,6 @@ echo "*Valoració dels usuaris: "$rating"	*Mida de la mostra:	"$size 	>> title_o
 done
 
 }
-echo "************************   HBBQO: El Nostre catàleg de ratings segons els usuaris  es:   ************************************" > title_output.txt
+echo "************************   HBBQO: El Nostre catàleg alfabétic  es:   ************************************" > title_output.txt
 ordenartitol
-more title_output.txt
+more nova_llista.txt
