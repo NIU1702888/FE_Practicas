@@ -2,6 +2,8 @@
 document=$1
 ordenarvaloracio(){
 sort -n -r -t , -k 4 $document | uniq > year_llista.txt
+}
+mostrar_pelis(){
 lin=$(wc -l < year_llista.txt)
 for i in $(seq 1 $(($lin-1)))
 do
@@ -24,8 +26,8 @@ echo "*Any: "$year"	*Nivell de classificació:	"$clas 	>> year_output.txt
 echo "*Descripció:	"$desc 	>> year_output.txt
 echo "*Valoració dels usuaris: "$rating"	*Mida de la mostra:	"$size 	>> year_output.txt
 done
-
 }
-echo "************************   HBBQO: El Nostre catàleg de ratings segons els usuaris  es:   ************************************" > year_output.txt
+
+echo "************************   HBBQO: Las peliculas segun el año y la cadena que ha pa:   ************************************" > year_output.txt
 ordenarvaloracio
 more year_output.txt
