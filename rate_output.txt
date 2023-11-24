@@ -1,6 +1,0 @@
-************************   HBBQO: Las peliculas segun el año y la cadena que ha pa:   ************************************
-*****************************************************************************************************************************
-*Títol:	The Vampire Diaries
-*Any: 2017	*Nivell de classificació:	TV-14
-*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
-*Valoració dels usuaris: 91	*Mida de la mostra:	80
