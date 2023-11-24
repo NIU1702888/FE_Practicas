@@ -1,0 +1,2506 @@
+************************   HBBQO: El Nostre catàleg de ratings segons els usuaris  es:   ************************************
+*****************************************************************************************************************************
+*Títol:	13 Reasons Why
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 99	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Walking Dead
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Flash
+*Any: 2016	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Prison Break
+*Any: 2008	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Orange Is the New Black
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Once Upon a Time
+*Any: 2016	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Marvel's Iron Fist
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Lost
+*Any: 2010	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Grey's Anatomy
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Friends
+*Any: 2003	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Finding Dory
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	mild thematic elements
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Family Guy
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Criminal Minds
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 98	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Zootopia
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	some thematic elements-rude humor and action
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Office (U.S.)
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Jungle Book
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	for some sequences of scary action and peril
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The BFG
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	for action/peril-some scary moments and brief rude humor
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The 100
+*Any: 2016	*Nivell de classificació:	NR
+*Descripció:	This movie has not been rated.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Shameless (U.S.)
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	NCIS
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Law & Order: Special Victims Unit
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Last Man Standing
+*Any: 2015	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Kevin Hart: What Now?
+*Any: 2016	*Nivell de classificació:	R
+*Descripció:	some sexual material-and language throughout
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Breaking Bad
+*Any: 2013	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Bones
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 97	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Blacklist
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Pretty Little Liars
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Minions
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	action and rude humor
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	London Has Fallen
+*Any: 2016	*Nivell de classificació:	R
+*Descripció:	strong violence and language throughout
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Kubo and the Two Strings
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	thematic elements-scary images-action and peril
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Ingobernable
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Homeward Bound: The Incredible Journey
+*Any: 1993	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Hawaii Five-0
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	dialogue-language-sexual situations and violence
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Gossip Girl
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Atlantis: The Lost Empire
+*Any: 2001	*Nivell de classificació:	PG
+*Descripció:	action violence
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Arrow
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Alice Through the Looking Glass
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	fantasy action/peril and some language
+*Valoració dels usuaris: 96	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Emperor's New Groove
+*Any: 2000	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Tarzan
+*Any: 1999	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Supernatural
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Sherlock
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Marvel's Luke Cage
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Lilo & Stitch
+*Any: 2002	*Nivell de classificació:	PG
+*Descripció:	mild sci-fi action
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	How to Get Away with Murder
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Dexter
+*Any: 2013	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Coraline
+*Any: 2009	*Nivell de classificació:	PG
+*Descripció:	thematic elements-scary images-some language and suggestive humor
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Blue Bloods
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Better Call Saul
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 95	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Great British Baking Show
+*Any: 2016	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Parks and Recreation
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Narcos
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	How I Met Your Mother
+*Any: 2014	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Home
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	mild action and some rude humor
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Girlboss
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Dave Chappelle
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Bee Movie
+*Any: 2007	*Nivell de classificació:	PG
+*Descripció:	mild suggestive humor
+*Valoració dels usuaris: 94	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	White Collar
+*Any: 2014	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Night Shift
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Star Wars: The Clone Wars
+*Any: 2014	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Pete's Dragon
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	for action-peril and brief language
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Person of Interest
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Hotel Transylvania 2
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	some scary images-action and rude humor
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Chewing Gum
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Blank Check
+*Any: 1994	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Anastasia
+*Any: 1997	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 93	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Client List
+*Any: 2013	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 92	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Angry Birds Movie
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	for rude humor and action
+*Valoració dels usuaris: 92	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Scandal
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 92	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Sandy Wexler
+*Any: 2017	*Nivell de classificació:	TV-14
+*Descripció:	
+*Valoració dels usuaris: 92	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Longmire
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 92	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Kung Fu Panda 3
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	martial arts action and some mild rude humor
+*Valoració dels usuaris: 92	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Glee
+*Any: 2015	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 92	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Chicken Little
+*Any: 2005	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 92	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Vampire Diaries
+*Any: 2017	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Road to El Dorado
+*Any: 2000	*Nivell de classificació:	PG
+*Descripció:	mild thematic material and language
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Pacifier
+*Any: 2005	*Nivell de classificació:	PG
+*Descripció:	action violence-language and rude humor
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Sausage Party
+*Any: 2016	*Nivell de classificació:	R
+*Descripció:	strong crude sexual content-pervasive language-and drug use
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	New Girl
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Kung Fu Panda
+*Any: 2008	*Nivell de classificació:	PG
+*Descripció:	sequences of martial arts action
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Jane The Virgin
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	It's Always Sunny in Philadelphia
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	House of Cards
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Gilmore Girls
+*Any: 2006	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Corpse Bride
+*Any: 2005	*Nivell de classificació:	PG
+*Descripció:	some scary images and action-and brief mild language
+*Valoració dels usuaris: 91	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Stranger Things
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 90	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	One Tree Hill
+*Any: 2011	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 90	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Grace and Frankie
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 90	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Goosebumps
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	scary and intense creature action and images-and for some rude humor
+*Valoració dels usuaris: 90	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Fuller House
+*Any: 2016	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 90	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Charmed
+*Any: 2005	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 90	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	American Horror Story
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 90	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Twilight
+*Any: 2008	*Nivell de classificació:	PG-13
+*Descripció:	some violence and one sexual scene
+*Valoració dels usuaris: 89	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Magicians
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 89	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	That '70s Show
+*Any: 2005	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 89	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Sand Castle
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 89	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Phineas and Ferb
+*Any: 2012	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 89	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Marvel's Agents of S.H.I.E.L.D.
+*Any: 2016	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 89	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Lie to Me
+*Any: 2010	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 89	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Cleveland Show
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Quantico
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Private Practice
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Naruto
+*Any: 2008	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Jessie
+*Any: 2015	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Goosebumps
+*Any: 1998	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Forensic Files
+*Any: 2011	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Dragons: Race to the Edge
+*Any: 2017	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Breakout Kings
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 88	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Travelers
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 86	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Little Rascals
+*Any: 1994	*Nivell de classificació:	PG
+*Descripció:	some rude dialogue
+*Valoració dels usuaris: 86	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Scooby-Doo
+*Any: 2002	*Nivell de classificació:	PG
+*Descripció:	some rude humor-language and some scary action
+*Valoració dels usuaris: 86	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Leverage
+*Any: 2012	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 86	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Grease
+*Any: 1978	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 86	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Bordertown
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 86	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Weeds
+*Any: 2012	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Mulan 2
+*Any: 2004	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Lilo & Stitch 2: Stitch Has A Glitch
+*Any: 2005	*Nivell de classificació:	PG
+*Descripció:	some mild action
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Lab Rats
+*Any: 2016	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Heartland
+*Any: 2015	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Gotham
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Burn Notice
+*Any: 2013	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Barbie Life in the Dreamhouse
+*Any: 2012	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 85	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Walt Disney Animation Studios Short Films Collection
+*Any: 2015	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 84	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Nightmare Before Christmas
+*Any: 1993	*Nivell de classificació:	PG
+*Descripció:	some scary images
+*Valoració dels usuaris: 84	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Do-Over
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 84	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Crown
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 84	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Revenge
+*Any: 2015	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 84	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Limitless
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 84	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Gabriel lglesias: Iâ€™m Sorry For What I Said When I Was Hungry
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 84	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Trollhunters
+*Any: 2016	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 83	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Iron Giant
+*Any: 1999	*Nivell de classificació:	PG
+*Descripció:	fantasy action and mild language
+*Valoració dels usuaris: 83	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Switched at Birth
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 83	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Marvel's Jessica Jones
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 83	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Flubber
+*Any: 1997	*Nivell de classificació:	PG
+*Descripció:	slapstick action and mild language
+*Valoració dels usuaris: 83	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Bates Motel
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 83	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	White Chicks
+*Any: 2004	*Nivell de classificació:	PG-13
+*Descripció:	crude and sexual humor-language and some drug content
+*Valoració dels usuaris: 82	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Waterboy
+*Any: 1998	*Nivell de classificació:	PG-13
+*Descripció:	language and some crude sexual humor
+*Valoració dels usuaris: 82	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Sofia the First
+*Any: 2015	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 82	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Scooby-Doo 2: Monsters Unleashed
+*Any: 2004	*Nivell de classificació:	PG
+*Descripció:	some scary action-rude humor and language
+*Valoració dels usuaris: 82	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Santa Clarita Diet
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 82	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Nurse Jackie
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 82	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Secret Life of the American Teenager
+*Any: 2013	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Prince of Egypt
+*Any: 1998	*Nivell de classificació:	PG
+*Descripció:	intense scenes dealing with strong content
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Magic School Bus
+*Any: 1997	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Sense8
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Rosewood
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Masha and the Bear
+*Any: 2013	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Hart of Dixie
+*Any: 2014	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Friday Night Lights
+*Any: 2010	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Cool Runnings
+*Any: 1993	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 81	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Get Down
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 80	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Honey
+*Any: 1989	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 80	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Growing Up Wild
+*Any: 2016	*Nivell de classificació:	G
+*Descripció:	
+*Valoració dels usuaris: 80	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Chicken Run
+*Any: 2000	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 80	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Black Mirror
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 80	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Baby Daddy
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 80	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Antz
+*Any: 1998	*Nivell de classificació:	PG
+*Descripció:	moderate adult language and intense action
+*Valoració dels usuaris: 80	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The West Wing
+*Any: 2005	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Matchbreaker
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Reign
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Parenthood
+*Any: 2014	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Meet the Blacks
+*Any: 2016	*Nivell de classificació:	R
+*Descripció:	pervasive language-some sexual material-violence and drug use
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Dope
+*Any: 2015	*Nivell de classificació:	R
+*Descripció:	language-drug content-sexuality/nudity-and some violence-all involving teens
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Atlantis: Milo's Return
+*Any: 2003	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	American Crime Story: The People v. O.J. Simpson
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 79	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Adventures of Puss in Boots
+*Any: 2016	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 78	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Only for One Night
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 78	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Blow
+*Any: 2001	*Nivell de classificació:	R
+*Descripció:	pervasive drug content and language-some violence and sexuality
+*Valoració dels usuaris: 78	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Benchwarmers
+*Any: 2006	*Nivell de classificació:	PG-13
+*Descripció:	crude and suggestive humor-and for language
+*Valoració dels usuaris: 77	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Batman
+*Any: 2007	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 77	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Magic Mike
+*Any: 2012	*Nivell de classificació:	R
+*Descripció:	pervasive sexual content-brief graphic nudity-language and some drug use
+*Valoració dels usuaris: 77	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Goldie & Bear
+*Any: 2016	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 77	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Gilmore Girls: A Year in the Life
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 77	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Death Note
+*Any: 2006	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 77	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Death in Paradise
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 77	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Missione Hamburger
+*Any: 1997	*Nivell de classificació:	PG
+*Descripció:	language-some comic violence and mild sex-related humor
+*Valoració dels usuaris: 75	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Mad Men
+*Any: 2014	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 75	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Originals
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 74	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Schitt's Creek
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 74	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Ratchet and Clank
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	action and some rude humor
+*Valoració dels usuaris: 74	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	PokÃ©mon: Indigo League
+*Any: 2000	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 74	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Heavyweights
+*Any: 1995	*Nivell de classificació:	PG
+*Descripció:	some rude language and pranks
+*Valoració dels usuaris: 74	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	H2O: Just Add Water
+*Any: 2009	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 74	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Cars Toons: Mater's Tall Tales
+*Any: 2010	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 74	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Killing
+*Any: 2014	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 73	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Fosters
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 73	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Raising Hope
+*Any: 2013	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 73	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Mighty Morphin Power Rangers
+*Any: 2010	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 73	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Open Season: Scared Silly
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	rude humor and some action
+*Valoració dels usuaris: 72	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Dawn of the Croods
+*Any: 2017	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 72	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Animaniacs
+*Any: 1997	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 72	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Young Justice
+*Any: 2012	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 71	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Little Prince
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	mild thematic elements
+*Valoració dels usuaris: 71	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Louis C.K. 2017
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 71	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Baby's Day Out
+*Any: 1994	*Nivell de classificació:	PG
+*Descripció:	mild language and comic action
+*Valoració dels usuaris: 71	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	All Hail King Julien
+*Any: 2016	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 71	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Paddington
+*Any: 2014	*Nivell de classificació:	PG
+*Descripció:	mild action and rude humor
+*Valoració dels usuaris: 70	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Madam Secretary
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 70	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Little Einsteins
+*Any: 2007	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 70	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	FernGully: The Last Rainforest
+*Any: 1992	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 70	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	D2: The Mighty Ducks
+*Any: 1994	*Nivell de classificació:	PG
+*Descripció:	some mild language and rough hockey action
+*Valoració dels usuaris: 70	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Great Gilly Hopkins
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	for thematic material and language
+*Valoració dels usuaris: 69	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Carmichael Show
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 69	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Skin Wars
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 69	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Luther
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 69	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Touch
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 68	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Super Why!
+*Any: 2015	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 68	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Life in Pieces
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 68	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Annie
+*Any: 1982	*Nivell de classificació:	PG
+*Descripció:	adult content and mld violence
+*Valoració dels usuaris: 68	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	10 Things I Hate About You
+*Any: 1999	*Nivell de classificació:	PG-13
+*Descripció:	adult content-adult language and mild violence
+*Valoració dels usuaris: 68	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Pocoyo
+*Any: 2007	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 67	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	LEGO Ninjago: Masters of Spinjitzu
+*Any: 2015	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 67	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	An Extremely Goofy Movie
+*Any: 1999	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 67	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	An American Tail
+*Any: 1986	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 67	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Justice League
+*Any: 2003	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 66	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Crossing Lines
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 66	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	30 Rock
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 66	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Real Ghostbusters
+*Any: 1990	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 65	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Secret of the Wings
+*Any: 2012	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 65	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Step Up
+*Any: 2006	*Nivell de classificació:	PG-13
+*Descripció:	thematic elements-brief violence and innuendo
+*Valoració dels usuaris: 64	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Spy Kids 3: Game Over
+*Any: 2003	*Nivell de classificació:	PG
+*Descripció:	action sequences and peril
+*Valoració dels usuaris: 64	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Pocahontas II: Journey to a New World
+*Any: 1998	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 64	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	High School Musical
+*Any: 2006	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 64	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Balto
+*Any: 1995	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 64	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Trouble with the Curve
+*Any: 2012	*Nivell de classificació:	PG-13
+*Descripció:	Parents strongly cautioned. May be inappropriate for children under 13.
+*Valoració dels usuaris: 63	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Girlfriends' Guide to Divorce
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 63	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Californication
+*Any: 2014	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 63	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Brickleberry
+*Any: 2014	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 63	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Safe Haven
+*Any: 2013	*Nivell de classificació:	PG-13
+*Descripció:	thematic material involving threatening behavior-and for violence and sexuality
+*Valoració dels usuaris: 62	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Portlandia
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 62	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Greenleaf
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 62	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	90210
+*Any: 2013	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 62	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Fall
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 61	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Talking Tom and Friends
+*Any: 2016	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 61	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Little Boxes
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 61	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Fantasia
+*Any: 1940	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 61	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Cheer Squad
+*Any: 2016	*Nivell de classificació:	TV-PG
+*Descripció:	
+*Valoració dels usuaris: 61	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Bunk'd
+*Any: 2016	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 61	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Army Wives
+*Any: 2013	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 61	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Absolutely Fabulous
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 59	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	High School Musical 2
+*Any: 2007	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 58	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Haters Back Off
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 58	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Harry and the Hendersons
+*Any: 1987	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 58	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Being Human (U.S.)
+*Any: 2014	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 58	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Pirate Fairy
+*Any: 2014	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 57	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	The Doctor Blake Mysteries
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 57	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Star Wars: The Clone Wars
+*Any: 2008	*Nivell de classificació:	PG
+*Descripció:	sci-fi action violence throughout-brief language and momentary smoking
+*Valoració dels usuaris: 57	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Hunter X Hunter (2011)
+*Any: 2013	*Nivell de classificació:	NR
+*Descripció:	This movie has not been rated.
+*Valoració dels usuaris: 57	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Hap and Leonard
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 57	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Brother Bear 2
+*Any: 2006	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 57	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	PokÃ©mon: XY
+*Any: 2015	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 56	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	How to Lose a Guy in 10 Days
+*Any: 2003	*Nivell de classificació:	PG-13
+*Descripció:	some sex-related material
+*Valoració dels usuaris: 56	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Hannah Montana: The Movie
+*Any: 2009	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 56	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	DreamWorks Shrek's Swamp Stories
+*Any: 2008	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 56	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Bitten
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 56	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Life Unexpected
+*Any: 2010	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 55	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Curious George
+*Any: 2006	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 55	*Mida de la mostra:	80
+*****************************************************************************************************************************
+*Títol:	Zoobabu
+*Any: 2010	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Yellowbird
+*Any: 2014	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Worms
+*Any: 2013	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Word Party
+*Any: 2016	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Witches of East End
+*Any: 2014	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Winnie the Pooh: Springtime with Roo
+*Any: 2004	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Win It All
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Wiener Dog Internationals
+*Any: 2015	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	White Girl
+*Any: 2016	*Nivell de classificació:	UR
+*Descripció:	This movie has not been rated. Intended for adults only and may contain sex-violence-drugs-language or other adult themes.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	We're Back! A Dinosaur's Story
+*Any: 1993	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Voltron: Legendary Defender
+*Any: 2017	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Velvet
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	VeggieTales in the House
+*Any: 2016	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Underdogs
+*Any: 2013	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Unconditional
+*Any: 2012	*Nivell de classificació:	PG-13
+*Descripció:	some violent content and mature thematic elements
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Unbreakable Kimmy Schmidt
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Transporter: The Series
+*Any: 2014	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Transformers: Robots in Disguise
+*Any: 2016	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Transformers: Rescue Bots
+*Any: 2016	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Transformers Prime
+*Any: 2013	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Transformers Prime Beast Hunters: Predacons Rising
+*Any: 2013	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Tramps
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Thunder and the House Of Magic
+*Any: 2013	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Thomas & Friends: Thomas & the Runaway Kite
+*Any: 2010	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Thomas & Friends: King of the Railway
+*Any: 2013	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Wedding Planner
+*Any: 2001	*Nivell de classificació:	PG-13
+*Descripció:	language and some sexual humor
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Wedding Party
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Very Hungry Caterpillar and Other Stories
+*Any: 1993	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Tudors
+*Any: 2010	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Three Musketeers
+*Any: 2004	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Super Mario Bros. Super Show!
+*Any: 1989	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Smurfs and the Magic Flute
+*Any: 1976	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Seven Deadly Sins
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Returned
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The OA
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Mr. Peabody and Sherman Show
+*Any: 2017	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Lizzie McGuire Movie
+*Any: 2003	*Nivell de classificació:	PG
+*Descripció:	mild thematic elements
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Little Engine That Could
+*Any: 2011	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Life Aquatic with Steve Zissou
+*Any: 2004	*Nivell de classificació:	R
+*Descripció:	language-some drug use-violence and partial nudity
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Last Unicorn
+*Any: 1982	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Land Before Time XIV: Journey of the Brave
+*Any: 2016	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The L Word
+*Any: 2009	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Hunter
+*Any: 2011	*Nivell de classificació:	R
+*Descripció:	language and brief violence
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Honorable Woman
+*Any: 2014	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Hero of Color City
+*Any: 2014	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Gruffalo
+*Any: 2009	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Girl in the Book
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Furchester Hotel
+*Any: 2015	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Fox and the Hound 2
+*Any: 2006	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Following
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Discovery
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Deep
+*Any: 2015	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Cat in the Hat Knows a Lot About That!
+*Any: 2014	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Carrie Diaries
+*Any: 2013	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Brothers
+*Any: 2001	*Nivell de classificació:	R
+*Descripció:	strong sexual content and language
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Brave Little Toaster to the Rescue
+*Any: 1997	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Brave Little Toaster Goes to Mars
+*Any: 1998	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Boxcar Children
+*Any: 2014	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Angriest Man in Brooklyn
+*Any: 2014	*Nivell de classificació:	R
+*Descripció:	Restricted. May be inappropriate for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Adventures of Figaro Pho
+*Any: 2015	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Adventures of Chuck & Friends
+*Any: 2011	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Teenage Mutant Ninja Turtles
+*Any: 2007	*Nivell de classificació:	PG
+*Descripció:	animated action violence-some scary cartoon images and mild language
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Tayo the Little Bus
+*Any: 2014	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Tarzan & Jane
+*Any: 2002	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Tad: The Lost Explorer
+*Any: 2012	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Super Buddies
+*Any: 2013	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Stronger Than the World
+*Any: 2016	*Nivell de classificació:	NR
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Step Dogs
+*Any: 2013	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	StarStruck
+*Any: 2010	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Some Assembly Required
+*Any: 2015	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Slugterra: Slug Fu Showdown
+*Any: 2015	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Slam
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Skylanders Academy
+*Any: 2016	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Skins
+*Any: 2013	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Skins
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Sid the Science Kid
+*Any: 2008	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Sid the Science Kid: The Movie
+*Any: 2012	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Sex Love and Therapy
+*Any: 2014	*Nivell de classificació:	NR
+*Descripció:	This movie has not been rated.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Scream
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Sammy 2
+*Any: 2012	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Salvador Martinha - Tip of the Tongue
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Russell Madness
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	some rude humor and sports action
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Rooster Doodle-doo
+*Any: 2014	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Robocar Poli
+*Any: 2012	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Ripper Street
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Ribbit
+*Any: 2014	*Nivell de classificació:	PG
+*Descripció:	some peril
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Rectify
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Recess: Taking the Fifth Grade
+*Any: 2003	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Quackerz
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	rude and suggestive humor-and some action
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Pup Star
+*Any: 2016	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Puffin Rock
+*Any: 2016	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Precious Puppies
+*Any: 2003	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Power Rangers Zeo
+*Any: 1996	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Power Rangers Super Megaforce
+*Any: 2014	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Power Rangers Dino Super Charge
+*Any: 2016	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Power Rangers Dino Charge
+*Any: 2015	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Pound Puppies
+*Any: 2013	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	PopPixie
+*Any: 2011	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Pooh's Heffalump Movie
+*Any: 2005	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Pooh's Grand Adventure: The Search for Christopher Robin
+*Any: 1997	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Pet Pals in Windland
+*Any: 2014	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Paulie
+*Any: 1998	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Pandora
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Pac-Man and the Ghostly Adventures
+*Any: 2014	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Oscar's Oasis
+*Any: 2011	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	OperaÃ§Ãµes Especiais
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	One Day at a Time
+*Any: 2017	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Octonauts
+*Any: 2015	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	O Amor no DivÃ£
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Nymphomaniac: Volume 1
+*Any: 2013	*Nivell de classificació:	NR
+*Descripció:	This movie has not been rated.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	November Rule
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	No Tomorrow
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Ninja Turtles: The Next Mutation
+*Any: 1997	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Nexo Knights
+*Any: 2015	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Nancy Drew
+*Any: 2007	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	My Animal Friends
+*Any: 2013	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mr. Magoo
+*Any: 1997	*Nivell de classificació:	PG
+*Descripció:	mild language and action sequences
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mother Goose Club
+*Any: 2016	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Monster Math Squad
+*Any: 2012	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Minimalism: A Documentary About the Important Things
+*Any: 2016	*Nivell de classificació:	TV-PG
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mickey's Twice Upon a Christmas
+*Any: 2004	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mia and Me
+*Any: 2015	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	MerlÃ­
+*Any: 2015	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Mean Girls 2
+*Any: 2011	*Nivell de classificació:	PG-13
+*Descripció:	For some rude and suggestive material-and for language.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Max Steel
+*Any: 2014	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Master of None
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Marvel's Hulk: Where Monsters Dwell
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	action violence throughout-some scary images-and language
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Marvel Super Hero Adventures: Frost Fight!
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	fantasy action
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Lucky Number Slevin
+*Any: 2006	*Nivell de classificació:	R
+*Descripció:	strong violence-sexual content and adult language
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Love
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Lovesick
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Lottie Dottie Chicken
+*Any: 2009	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Little Baby Bum: Nursery Rhyme Friends
+*Any: 2016	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Like Cotton Twines
+*Any: 2016	*Nivell de classificació:	NR
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	LEGO Ninjago: Masters of Spinjitzu: Way of the Ninja
+*Any: 2011	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	LEGO: Marvel Super Heroes: Maximum Overload
+*Any: 2013	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	LEGO Jurassic World: The Indominus Escape
+*Any: 2016	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Lego DC Comics: Batman Be-Leaguered
+*Any: 2014	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	LEGO Bionicle: The Journey to One
+*Any: 2016	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	LeapFrog: The Amazing Alphabet Amusement Park
+*Any: 2010	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Lazy Eye
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Larva
+*Any: 2015	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Kurt Seyit & Sura
+*Any: 2014	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Kulipari: An Army of Frogs
+*Any: 2016	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Kronk's New Groove
+*Any: 2005	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Kong: King of the Apes
+*Any: 2016	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Justice League Unlimited
+*Any: 2005	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Jetsons: The Movie
+*Any: 1990	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Jack and the Cuckoo-Clock Heart
+*Any: 2013	*Nivell de classificació:	PG
+*Descripció:	scary images-suggestive material-some language and smoking
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Jack and the Cuckoo-Clock Heart
+*Any: 2013	*Nivell de classificació:	PG
+*Descripció:	scary images suggestive material-some language and smoking
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	I.T
+*Any: 2016	*Nivell de classificació:	NR
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Iron Man & Captain America: Heroes United
+*Any: 2014	*Nivell de classificació:	PG
+*Descripció:	action and violence throughout-and mild language
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Inspector Gadget 2
+*Any: 2003	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Inside Russia's Toughest Prison
+*Any: 2011	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Hyena Road
+*Any: 2015	*Nivell de classificació:	R
+*Descripció:	bloody war violence-language throughout and some sexual material
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Hurricane Bianca
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Hot Girls Wanted: Turned On
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Honeytrap
+*Any: 2014	*Nivell de classificació:	NR
+*Descripció:	This movie has not been rated.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Home: Adventures with Tip & Oh
+*Any: 2017	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Hatched
+*Any: 2013	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Happily Married
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Halt and Catch Fire
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Gon
+*Any: 2013	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Friends with Benefits
+*Any: 2011	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Fried
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Flicka 2
+*Any: 2010	*Nivell de classificació:	PG
+*Descripció:	some reckless behavior
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Flaked
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	FernGully 2: The Magical Rescue
+*Any: 1998	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Felipe Neto: My Life Makes No Sense
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Fearless
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Fantasia 2000
+*Any: 2000	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Ernest & Celestine
+*Any: 2012	*Nivell de classificació:	PG
+*Descripció:	some scary moments
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Edgar Rice Burroughs' Tarzan and Jane
+*Any: 2017	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Easy
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Drugs
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Drop Dead Diva
+*Any: 2014	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	DreamWorks Spooky Stories: Volume 2
+*Any: 2011	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	DreamWorks Kung Fu Panda Awesome Secrets
+*Any: 2008	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	DreamWorks How to Train Your Dragon Legends
+*Any: 2011	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Dr. Dolittle: Tail to the Chief
+*Any: 2008	*Nivell de classificació:	PG
+*Descripció:	brief mild language and some rude behavior
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Don't Trust the B---- in Apartment 23
+*Any: 2012	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Dolphin Tale
+*Any: 2011	*Nivell de classificació:	PG
+*Descripció:	some mild thematic elements
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Documentary Now!
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Disney Animation Collection: Vol. 4: The Tortoise and the Hare
+*Any: 2009	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Disney Animation Collection: Vol. 2: Three Little Pigs
+*Any: 2009	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Disney Animation Collection: Vol. 1: Mickey and the Beanstalk
+*Any: 2009	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Dinotrux
+*Any: 2017	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Dinosaur King
+*Any: 2008	*Nivell de classificació:	TV-Y7-FV
+*Descripció:	Suitable for children ages 7 and older. Content contains fantasy violence.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Dino Squad
+*Any: 2008	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Delhi Safari
+*Any: 2012	*Nivell de classificació:	PG
+*Descripció:	violence and menacing action-rude humor-suggestive content and thematic elements
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Deidra & Laney Rob a Train
+*Any: 2017	*Nivell de classificació:	TV-14
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Crazyhead
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Crazy Ex-Girlfriend
+*Any: 2017	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Cooper Barrett's Guide to Surviving Life
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Come Fly With Me
+*Any: 2010	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Clifford's Puppy Days
+*Any: 2003	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Clifford the Big Red Dog
+*Any: 2002	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	City of God: 10 Years Later
+*Any: 2013	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Chuggington
+*Any: 2015	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Chelsea
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Chef's Table
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Cats & Dogs
+*Any: 2001	*Nivell de classificació:	PG
+*Descripció:	animal action and humor
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Care Bears: Welcome to Care-a-Lot
+*Any: 2012	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Bunks
+*Any: 2013	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Buddy Thunderstruck
+*Any: 2017	*Nivell de classificació:	TV-PG
+*Descripció:	Parental guidance suggested. May not be suitable for all children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Boy Bye
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Bordertown
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	BoJack Horseman
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Bob the Builder
+*Any: 2015	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Bloodline
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Blinky Bill: The Movie
+*Any: 2015	*Nivell de classificació:	PG
+*Descripció:	some rude humor
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Beyblade: Metal Fusion
+*Any: 2009	*Nivell de classificació:	TV-Y7
+*Descripció:	Suitable for children ages 7 and older
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Beverly Hills Chihuahua 3: Viva La Fiesta!
+*Any: 2012	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Better Off Single
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Being Mary Jane: The Series
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Beary Tales
+*Any: 2013	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Batched
+*Any: 2000	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Balto 2: Wolf Quest
+*Any: 2001	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Back to the Secret Garden
+*Any: 2002	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Back and Forth
+*Any: 2016	*Nivell de classificació:	NR
+*Descripció:	This movie has not been rated.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Babe: Pig in the City
+*Any: 1998	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Axel: The Biggest Little Hero
+*Any: 2013	*Nivell de classificació:	PG
+*Descripció:	some scary images-perilous action sequences and mild rude humor
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Ask the StoryBots
+*Any: 2016	*Nivell de classificació:	TV-Y
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Aquarius
+*Any: 2015	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Angry Birds
+*Any: 2013	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	An American Tail: The Mystery of the Night Monster
+*Any: 1999	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	An American Tail: Fievel Goes West
+*Any: 1991	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Amy Schumer: The Leather Special
+*Any: 2017	*Nivell de classificació:	TV-MA
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	American Odyssey
+*Any: 2015	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	American Crime
+*Any: 2016	*Nivell de classificació:	TV-14
+*Descripció:	Parents strongly cautioned. May be unsuitable for children ages 14 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Alpha and Omega: Dino Digs
+*Any: 2016	*Nivell de classificació:	TV-G
+*Descripció:	Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Almost Adults
+*Any: 2016	*Nivell de classificació:	NR
+*Descripció:	This movie has not been rated.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Air Buddies
+*Any: 2006	*Nivell de classificació:	PG
+*Descripció:	some mild-rude humor
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Air Bud: World Pup
+*Any: 2000	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Air Bud: Spikes Back
+*Any: 2003	*Nivell de classificació:	G
+*Descripció:	General Audiences. Suitable for all ages.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Agent F.O.X.
+*Any: 2014	*Nivell de classificació:	PG
+*Descripció:	Parental guidance suggested. May not be suitable for children.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Abstract: The Art of Design
+*Any: 2017	*Nivell de classificació:	TV-14
+*Descripció:	
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	A Weekend with the Family
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	Ã“ Pai Ã“ - Look at This
+*Any: 2007	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	A Monster in Paris
+*Any: 2011	*Nivell de classificació:	PG
+*Descripció:	some action violence involving gunplay-and mild rude humor
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	5 to 7
+*Any: 2014	*Nivell de classificació:	R
+*Descripció:	some sexual material
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	100 Metros
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	0.03
+*Any: 2016	*Nivell de classificació:	TV-MA
+*Descripció:	For mature audiences. May not be suitable for children 17 and under.
+*Valoració dels usuaris: 	*Mida de la mostra:	82
+*****************************************************************************************************************************
+*Títol:	The Secret Life of Pets
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	for action and some rude humor
+*Valoració dels usuaris: 	*Mida de la mostra:	81
+*****************************************************************************************************************************
+*Títol:	Queen of Katwe
+*Any: 2016	*Nivell de classificació:	PG
+*Descripció:	thematic elements-an accident scene and some suggestive material
+*Valoració dels usuaris: 	*Mida de la mostra:	81
