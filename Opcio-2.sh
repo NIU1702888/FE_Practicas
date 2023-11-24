@@ -16,7 +16,6 @@ read a
 echo Segona lletra
 read b
 echo se enviara $a i $b
-./Tasca2-1 $document $a $b
 }
 tasca2-2(){
 echo Introdueix cadena
@@ -24,7 +23,6 @@ read cadena
 echo Introdueix any
 echo any
 echo se enviara $cadena i $any
-./Tasca2-2 $document $cadena $any 
 }
 
 tasca2-3(){
@@ -43,7 +41,6 @@ read rl
 echo Escribe una cadena
 read cad
 echo Se enviara $rl y $cad
-./Tasca2-3 $document $cad $rl
 }
 
 
